@@ -4,6 +4,7 @@ project:
     package:
         name:  Food-Bank
         api_version: '48.0'
+        namespace: JonTestFoodBank
     source_format: sfdx
 
 tasks:
