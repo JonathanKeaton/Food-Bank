@@ -2,8 +2,9 @@ minimum_cumulusci_version: '3.15.0'
 project:
     name: Food-Bank
     package:
-        name:  Food-Bank
+        name: Food-Bank
         api_version: '48.0'
+        namespace: JonTestFoodBank
     source_format: sfdx
 
 tasks:
